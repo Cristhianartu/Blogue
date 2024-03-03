@@ -156,6 +156,11 @@
     color: #2a223a;
  }
 
+ .product-1 img {
+    width: 400px;
+    height: 200px;
+ }
+
  .product-txt {
     padding: 50px 30px;
  }
